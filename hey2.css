@@ -1,0 +1,48 @@
+body{
+background: linear-gradient(red,blue);
+}
+
+span {
+color: white;
+}
+
+h1{
+    color: lightcyan;
+}
+
+h3 {
+color: lightcyan;
+}
+input { 
+    accent-color: yellow;
+}
+iframe {
+    height: 500px;
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+span{
+vertical-align: middle;
+
+}
+input{
+    vertical-align: middle;
+}
